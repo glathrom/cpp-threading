@@ -1,6 +1,6 @@
-#include <c++/9/iostream>
-#include <c++/9/chrono>
-#include <c++/9/thread>
+#include <iostream>
+#include <chrono>
+#include <thread>
 
 
 void run(int count){
