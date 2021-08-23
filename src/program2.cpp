@@ -1,9 +1,9 @@
-#include <c++/9/iostream>
-#include <c++/9/chrono>
-#include <c++/9/thread>
-#include <c++/9/mutex>
+#include <iostream>
+#include <chrono>
+#include <thread>
+#include <mutex>
 #include <string.h>
-#include <c++/9/atomic>
+#include <atomic>
 #include <boost/log/trivial.hpp>
 
 std::mutex mywrite;
